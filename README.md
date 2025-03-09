@@ -85,6 +85,12 @@ To run the application in development mode:
 go run ./cmd/server/main.go
 ```
 
+## Screen Captures
+
+![Webapp Preview](https://github.com/pillaiharish/Quantum-Safe-Password-Generator/blob/main/images/Webapp-1.png)
+
+![Webapp Password Generated](https://github.com/pillaiharish/Quantum-Safe-Password-Generator/blob/main/images/Webapp-2.png)
+
 ## License
 
 MIT
